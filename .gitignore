@@ -1,0 +1,5 @@
+src/server/tf-server/bottlenecks
+src/server/tf-server/inception
+src/server/tf-server/product_photos
+src/server/tf-server/training_summaries
+src/server/tf-server/retrained_graph.pb
